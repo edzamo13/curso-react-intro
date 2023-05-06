@@ -1,5 +1,4 @@
-import logo from "./platzi.webp";
-import "./App.css";
+
 import { TodoCounter } from "./TodoCounter";
 import { TodoSearch } from "./TodoSearch";
 import { TodoList } from "./TodoList";
@@ -10,8 +9,8 @@ import React from "react";
 const defaultTodos = [
   { text: "Cut onion", completed: true },
   { text: "Take React Course introduce", completed: true },
-  { text: "Cry with Llorona ", completed: true },
-  { text: "LALALALAAL", completed: true },
+  { text: "Cry with Llorona ", completed: false },
+  { text: "LALALALAAL", completed: false },
 ];
 
 function App() {

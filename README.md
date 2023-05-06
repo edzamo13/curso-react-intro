@@ -73,3 +73,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Lecturas recomendadas
+
+ToDo With React
+
+https://germedina91.github.io/react-todo/
+
+
+TODO's App
+
+https://thejobgg.github.io/basic-react/
+
+
+Tasks
+
+https://dioselyn.github.io/tasks/
+
+
+React App
+
+https://diegogar10.github.io/app-finazas-with-react/
+
+
+Todo App
+
+https://cristiandrc.github.io/Todo-App/
+
+
+React App
+
+https://pandrea-hub.github.io/TODOs/
+
+
+Guía de BEM para CSS | Cohete Falcon 9 de SpaceX
+
+https://platzi.com/blog/bem/
+
+
+GitHub - platzi/curso-react-intro at 04-css
+
+https://github.com/platzi/curso-react-intro/tree/04-css
