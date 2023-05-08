@@ -1,15 +1,18 @@
+import React from "react";
 import "./css/TodoSearch.css";
 
 function TodoSearch() {
+  const [searchValue, setSearchValue] = React.useState("");
+console.log('setSearchValue' , searchValue);
+
   return (
     <input
       placeholder="enter any word"
       className="TodoSearch"
       onChange={(event) => {
         console.log("You write something ");
-        console.log("event", event);
-        console.log("event.target", event.target);
-        console.log("event.target.value" , event.target.value);
+        setSearchValue(event.target.value); 
+        
       }}
     ></input>
   );
